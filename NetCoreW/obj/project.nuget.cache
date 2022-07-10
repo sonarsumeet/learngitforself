@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4blmK/1waYZF0fomuNCUIwrq97NFios9hu6f+XU+nh8yeZQhlojKihXDE7PBZN+tTWRh/khZFUI9C4Vd2g5esg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\NetCore\\NetCoreW\\NetCoreW\\NetCoreW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumeet  Sonar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
