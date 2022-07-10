@@ -34,7 +34,7 @@ namespace NetCoreW.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
-            //Commit changes for second branch
+            //Commit changes for first branch
         }
     }
 }
